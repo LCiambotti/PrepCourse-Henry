@@ -1,2 +1,4 @@
 # PrepCourse-Henry
-Repositorio de Prueba MD 2. PrepCourse Henry.
+Leandro Ciambotti
+Proyecto de Prueba para Clonar un Repositorio desde GitHub a mi Escritorio
+
